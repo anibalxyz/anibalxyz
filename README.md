@@ -1,9 +1,11 @@
-## Hi there, I'm Anibal Boggio 👋
+<h1 align="center">🚧 Working on it...</h1>
 
-I'm Web Development student, focusing on backend. I love linux and open source. I'm an 18 years old uruguayan boy. My native language is Spanish, but i'm trying to learn English by using it everywhere (I'm currently at B1 CEFR level).
+<p align="center">
+  I'm currently redesigning my GitHub profile — updating information, improving structure, and making it look cleaner and more representative of my current work.  
+  <br><br>
+  <em>Check back soon for the proper version.</em>
+</p>
 
-I have the following conceptual knowledge experienced with PHP: Routing, basics HTTP, JWT, OOP, Middleware basics, ORM, PHPDoc, API and REST basics, some refactoring and good practices and a little more. I also have knowledge in HTML, CSS(medium flexbox and basics of grid) and Javascript while also learning React. 
-
-About Linux, I'm currently using Fedora Server 41 with GNOME as my main OS. I've used Ubuntu (and some flavors) and done a basic installation of Arch Linux.
-
-Even more recently, I'm trying to enhance my terminal by installing zsh and alacritty.
+<p align="center">
+  <img src="https://img.shields.io/badge/status-updating-blue?style=for-the-badge&logo=github" alt="Status badge">
+</p>
