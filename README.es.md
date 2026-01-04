@@ -67,8 +67,8 @@ Incluye:
 <h2 id="github-stats">📊 Estadísticas de GitHub</h2>
 
 <div align="center">
-  <img alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=anibalxyz&show_icons=true&count_private=true&theme=tokyonight&locale=es" />
-  <img alt="Lenguajes Principales" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anibalxyz&layout=compact&hide=hack&theme=tokyonight&locale=es" />
+  <img alt="Estadísticas de GitHub" src="https://github-readme-stats-fast.vercel.app/api?username=anibalxyz&show_icons=true&count_private=true&theme=tokyonight&locale=es" />
+  <img alt="Lenguajes Principales" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anibalxyz&layout=compact&hide=hack&theme=tokyonight&locale=es" />
 </div>
 
 ---

@@ -67,8 +67,8 @@ Features include:
 <h2 id="github-stats">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anibalxyz&show_icons=true&count_private=true&theme=tokyonight" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anibalxyz&layout=compact&hide=hack&theme=tokyonight" />
+  <img alt="GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=anibalxyz&show_icons=true&count_private=true&theme=tokyonight" />
+  <img alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anibalxyz&layout=compact&hide=hack&theme=tokyonight" />
 </div>
 
 ---
