@@ -54,6 +54,24 @@ Incluye:
 
 ---
 
+### **[Simulador MARIE - Modernizado](https://github.com/anibalxyz/marie)** (Automatización y Accesibilidad)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+**Descripción:** Modernización del simulador MARIE original (v1.3.01) para permitir que usuarios de cualquier nivel puedan ejecutarlo sin fricciones técnicas. El programa original se mantuvo casi intacto, centrando el trabajo en automatizar la configuración y unificar la navegación entre herramientas.
+
+Características clave:
+
+- **Sin Fricciones Técnicas:** Scripts automatizados para Linux y Windows que instalan Java (JRE/JDK) de forma portátil y local, sin necesidad de permisos de administrador ni configuración manual de variables de entorno.
+- **Herramientas Unificadas:** Unificación de los dos programas independientes en un solo punto de entrada, añadiendo un menú para navegar fluidamente entre el Simulador y el DataPath.
+- **Listo para Usar:** Optimizado para ejecutarse desde un JAR pre-compilado, permitiendo a usuarios no técnicos saltarse el proceso de compilación por completo.
+- **Accesos Directos:** Generadores de accesos directos al escritorio para facilitar el acceso rápido desde el sistema operativo.
+
+---
+
 ### **[Sistema de Gestión de E-commerce](https://github.com/anibalxyz/proyectoeme)** (Proyecto académico)
 
 | Backend | Frontend |

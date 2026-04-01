@@ -54,6 +54,24 @@ Features include:
 
 ---
 
+### **[MARIE Simulator - Modernized](https://github.com/anibalxyz/marie)** (Automation & Accessibility)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+**Description:** Modernization of the original MARIE simulator (v1.3.01) to enable users of any level to run it without technical friction. While the core simulator remains largely unchanged, the work focused on automating the environment and unifying the workflow.
+
+Key features:
+
+- **No Technical Friction:** Automated scripts for Linux and Windows that handle portable Java (JRE/JDK) installation locally, requiring no admin rights or manual path configuration.
+- **Unified Tools:** Unified the two separate programs into a single entry point, adding a menu to navigate seamlessly between the Simulator and the DataPath.
+- **Ready-to-Run:** Optimized to work directly from a pre-compiled JAR, allowing non-technical users to skip the build process entirely.
+- **Shortcut Integration:** Desktop shortcut generators for both OS, making the simulator accessible as a standard application.
+
+---
+
 ### **[E-commerce Management System](https://github.com/anibalxyz/proyectoeme)** (Academic Project)
 
 | Backend | Frontend |
