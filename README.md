@@ -23,15 +23,21 @@
 
 **Description:** Modular platform for financial transaction reconciliation. Built with Clean Architecture principles and professional development workflows.
 
-Initial release (v0.1.0) includes:
+Current release (v0.2.0) includes:
 
 - **Authentication system:** JWT-based user registration, login, token refresh, and access control
 - **Backend API:** Javalin microframework with PostgreSQL, extensive test suite covering nearly all codebase
+- **Standardization:** Standardized success responses and error handling using **RFC 9457 (Problem Details)**
 - **Infrastructure:** Docker-based development environment, CI/CD with GitHub Actions, automated releases
 - **CLI tool:** Python + Typer for simplified workflow (see dedicated section below)
-- **Documentation:** Comprehensive READMEs (English & Spanish), CONTRIBUTING.md, OpenAPI/Swagger UI, internal package documentation
+- **Documentation:** Comprehensive READMEs (English & Spanish), CONTRIBUTING.md, and OpenAPI/Swagger UI
 
-Frontend structure ready (React dashboard + Astro public site), UI implementation in progress.
+**Next steps:**
+
+- Refactor Frontend to Clean Architecture (mirroring Backend patterns)
+- Implement standardized JSON logging
+- Centralize all documentation in `docs/`
+- Deploy a "skeleton" demo to verify infrastructure before MVP feature implementation
 
 ---
 
@@ -94,8 +100,9 @@ Key features:
 <h2 id="about-me">✨ Some things about me</h2>
 
 - Native Spanish speaker | English: B1 (CEFR), certified in A2 Cambridge test
-- Former **Computer Engineering** student at **FING, UDELAR** (completed up to 2nd semester in 2025; currently focused on self-directed learning)
+- **IT Technologist** student at **UTU (LATU)** - Night shift, allowing for full-time work availability
 - Graduate from **Bilingual IT High School, focus on Web Development** at UTU IAE Montevideo (2022–2024)
+- Former **Computer Engineering** student at **FING, UDELAR (2025)**; paused to focus on self-directed technical development.
 - **Junior Technical Assistant** at Arnaldo C. Castro (2023–2024)
 
 ---

@@ -94,8 +94,9 @@ Características clave:
 <h2 id="sobre-mi">✨ Un poco sobre mí</h2>
 
 - Español nativo | Inglés: B1 (CEFR), certificado en examen Cambridge A2
-- Ex-estudiante de **Ingeniería en Computación** en **FING, UDELAR** (hasta 2.º semestre en el 2025; actualmente enfocado en formación autodidacta)
+- Estudiante de **Tecnólogo en Informática** en **UTU (LATU)** - Horario nocturno, con disponibilidad para trabajar a tiempo completo
 - Graduado de **Bachillerato de Informática Bilingüe con énfasis en Desarrollo Web** en UTU IAE Montevideo (2022–2024)
+- Ex-estudiante de **Ingeniería en Computación** en **FING, UDELAR (2025)**; pausado en su momento para centrarme en mi formación autodidacta
 - **Asistente Técnico Junior** en Arnaldo C. Castro (2023–2024)
 
 ---
